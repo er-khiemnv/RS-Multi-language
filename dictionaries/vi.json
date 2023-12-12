@@ -3,8 +3,8 @@
     "welcome": "Welcome"
   },
   "to-do-list": {
-    "title": "My To Do List",
-    "add": "Add Task",
-    "delete": "Delete"
+    "title": "List của tui",
+    "add": "Thêm",
+    "delete": "Xóa"
   }
 }

@@ -26,6 +26,6 @@
     "**/*.tsx",
     "next.config.js",
     ".next/types/**/*.ts"
-  ],
+, "app/[lang]/page.jsx", "app/[lang]/layout.jsx", "app/[lang]/components/locale-switcher.jsx"  ],
   "exclude": ["node_modules"]
 }

@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-bar {
+  width: 100%;
+  padding: 15px;
+  background-color: #000;
+  display: flex;
+  justify-content: right;
+}
+
+.select {
+  width: 200px;
+  padding: 0.5rem;
+}
+
+.container {
+  width: 100%;
+  padding: 15px;
+}
+
+.container .input{
+    padding: 5px;
+}
+
+.button {
+  margin-left: 15px;
+  padding: 5px;
+}
+
+.list {
+  list-style: none;
+}
+
+.list li {
+  margin-top: 15px;
+}
